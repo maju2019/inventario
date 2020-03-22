@@ -4,7 +4,6 @@ import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
-
 import { EquiposComponent } from './equipos/equipos.component';
 import { MonitoresComponent } from './monitores/monitores.component';
 
